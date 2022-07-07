@@ -10,3 +10,15 @@ body {
 }
 
 /* /REGOLE GENERALI */
+
+h1 {
+    color: #e53170;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header>div {
+    max-width: 1100px;
+    margin: 40px auto;
+
+}
