@@ -32,5 +32,8 @@ main {
     margin: 20px auto;
 }
 
+section>div {
+    width: calc(100% / 3);
+}
 
 /* /STILE  MAIN */
