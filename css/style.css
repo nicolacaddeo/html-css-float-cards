@@ -55,6 +55,11 @@ section>div {
     color: #fff;
 }
 
+.info {
+    margin: 10px 15px;
+    line-height: 25px;
+}
+
 .email {
     color: #076ebd;
 }
