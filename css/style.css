@@ -10,8 +10,9 @@ body {
 }
 
 img {
-    width: 95px;
+    width: 99px;
 }
+
 
 .float {
     float: left;
@@ -49,6 +50,7 @@ main {
 section>div {
     width: calc(100% / 3 - 40px);
     margin: 30px 20px;
+    background-color: #0f0e17;
 }
 
 /* /STILE  MAIN */
