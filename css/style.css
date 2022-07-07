@@ -47,7 +47,8 @@ main {
 }
 
 section>div {
-    width: calc(100% / 3);
+    width: calc(100% / 3 - 40px);
+    margin: 30px 20px;
 }
 
 /* /STILE  MAIN */
