@@ -52,6 +52,7 @@ section>div {
     width: calc(100% / 3 - 40px);
     margin: 30px 20px;
     background-color: #0f0e17;
+    color: #fff;
 }
 
 /* /STILE  MAIN */
