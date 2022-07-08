@@ -55,6 +55,7 @@ section>div {
     margin: 30px 20px;
     background-color: #0f0e17;
     color: #fff;
+    box-shadow: 2px 2px 10px #333;
 }
 
 .info {
