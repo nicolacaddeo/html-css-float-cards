@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Fredoka One', cursive;
 }
 
 img {
@@ -46,6 +46,7 @@ header>div {
 main {
     max-width: 1100px;
     margin: 20px auto;
+    font-size: 0.9rem;
 }
 
 section>div {
